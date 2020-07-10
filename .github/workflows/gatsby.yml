@@ -20,7 +20,7 @@ jobs:
          # The branch expected by GitHub to have the static files needed for your site.
          deploy-branch: gh-pages # optional, default is master
          gatsby-args: --prefix-paths
-         skip-publish: true
+         skip-publish: TRUE
      
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

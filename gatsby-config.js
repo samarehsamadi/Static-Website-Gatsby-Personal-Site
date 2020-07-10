@@ -15,7 +15,7 @@ module.exports = {
     occupation: `Software Engineer`,
     keywords: [`John`, `Doe`, `Personal`, `Blog`, `Resume`, `Projects`, `Work`],
     siteUrl:
-      process.env.URL || process.env.DEPLOY_URL || `http://localhost:8000`,
+      `https://elearninghub.github.io/Static-Website-Gatsby-Personal-Site`,
     unemployed: true,
     designations: [
       `Coding Monkey`,

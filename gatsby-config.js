@@ -15,7 +15,7 @@ module.exports = {
     occupation: `Software Engineer`,
     keywords: [`John`, `Doe`, `Personal`, `Blog`, `Resume`, `Projects`, `Work`],
     siteUrl:
-      `https://elearninghub.github.io/Static-Website-Gatsby-Personal-Site`,
+      `https://elearninghub.github.io`,
     unemployed: true,
     designations: [
       `Coding Monkey`,
@@ -78,7 +78,7 @@ module.exports = {
         name: `John Doe's Personal Site`,
         short_name: `J.Doe`,
         description: `This is my personal site.`,
-        start_url: `/`,
+        start_url: `/Static-Website-Gatsby-Personal-Site`,
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,

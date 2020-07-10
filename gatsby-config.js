@@ -16,6 +16,7 @@ module.exports = {
     keywords: [`John`, `Doe`, `Personal`, `Blog`, `Resume`, `Projects`, `Work`],
     siteUrl:
       `https://elearninghub.github.io`,
+    pathPrefix: `/Static-Website-Gatsby-Personal-Site`,
     unemployed: true,
     designations: [
       `Coding Monkey`,

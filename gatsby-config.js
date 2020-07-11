@@ -7,15 +7,15 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `John Doe`,
-    author: `John Doe`,
-    firstName: `John`,
-    lastName: `Doe`,
-    description: `John Doe's personal site`,
+    title: `Deep Learning`,
+    author: `Samareh Samadi`,
+    firstName: `Samareh`,
+    lastName: `Samadi`,
+    description: `This is a personal site`,
     occupation: `Software Engineer`,
     keywords: [`John`, `Doe`, `Personal`, `Blog`, `Resume`, `Projects`, `Work`],
     siteUrl:
-      `https://elearninghub.github.io`,
+      `https://samareh.samadi.github.io`,
     pathPrefix: `/Static-Website-Gatsby-Personal-Site`,
     unemployed: true,
     designations: [
